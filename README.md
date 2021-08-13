@@ -1,6 +1,6 @@
 # Discord-Reddit-Notification-Bot
 
-Discord bot that sends reddit post links to your Discord server when a new post matches your keywords critiera.
+Discord bot that sends Reddit posts to your Discord server when a new post matches your keywords criteria.
 
 ## Usage
 ```
